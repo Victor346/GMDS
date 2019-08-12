@@ -1,0 +1,4 @@
+go.mongodb.org/mongo-driver
+github.com/dgrijalva/jwt-go
+github.com/gorilla/muxa
+github.com/joho/godotenv
